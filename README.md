@@ -21,4 +21,10 @@ print(chord.chordType); // ChordType.minor
 
 ## Additional information
 
+TODO's
+
+* Guitar fretting generation
+* Unit tests
+* Documentation
+
 This package is still under development, and breaking changes may happen. Many of the essential features aren't developed yet. If you find anything unexpected or think you have a suggestion for anything, submit an issue or pr. If you like this package, please give it a github star.

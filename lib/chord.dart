@@ -1,5 +1,6 @@
 library chord;
 
+/// The main Chord data class.
 class Chord {
   late Note note;
   late ChordType chordType;
